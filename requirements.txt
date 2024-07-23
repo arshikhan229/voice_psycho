@@ -1,0 +1,8 @@
+optimum 
+peft 
+torch==2.1 
+auto-gptq 
+bitsandbytes
+SpeechRecognition 
+gtts 
+pydub 
