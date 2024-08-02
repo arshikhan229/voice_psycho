@@ -94,7 +94,3 @@ This project is licensed under the MIT License.
 
 - Hugging Face for providing the Transformers library.
 - The authors of the SpeechRecognition, gTTS, and pydub libraries for their invaluable tools.
-
----
-
-You can create a file named `README.md` in your project directory and copy the above content into it. This will provide a comprehensive guide for users who want to understand and use the `voice_psycho.py` script. If you have any specific details or additional instructions to include, feel free to modify the README accordingly.
